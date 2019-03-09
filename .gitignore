@@ -59,3 +59,4 @@ local.properties
 **/target/*
 **/libs/*.jar
 
+/target/
