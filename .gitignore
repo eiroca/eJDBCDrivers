@@ -58,5 +58,5 @@ local.properties
 #
 **/target/*
 **/libs/*.jar
-
+**/libs/*/*.jar
 /target/
