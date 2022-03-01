@@ -71,19 +71,19 @@
     <dependency>
       <groupId>org.postgresql</groupId>
       <artifactId>postgresql</artifactId>
-      <version>42.2.23</version>
+      <version>42.3.3</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.microsoft.sqlserver/mssql-jdbc -->
     <dependency>
       <groupId>com.microsoft.sqlserver</groupId>
       <artifactId>mssql-jdbc</artifactId>
-      <version>9.2.1.jre8</version>
+      <version>10.2.0.jre8</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>8.0.26</version>
+      <version>8.0.28</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.ingres.jdbc/iijdbc -->
     <dependency>
@@ -95,7 +95,7 @@
     <dependency>
       <groupId>org.mongodb</groupId>
       <artifactId>mongo-java-driver</artifactId>
-      <version>3.12.9</version>
+      <version>3.12.10</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/fluent-hc -->
     <dependency>
@@ -107,61 +107,61 @@
     <dependency>
       <groupId>com.oracle.database.jdbc</groupId>
       <artifactId>ojdbc8</artifactId>
-      <version>21.3.0.0</version>
+      <version>21.5.0.0</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.oracle.database.ha/ons -->
     <dependency>
       <groupId>com.oracle.database.ha</groupId>
       <artifactId>ons</artifactId>
-      <version>21.3.0.0</version>
+      <version>21.5.0.0</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.oracle.database.security/oraclepki -->
     <dependency>
       <groupId>com.oracle.database.security</groupId>
       <artifactId>oraclepki</artifactId>
-      <version>21.3.0.0</version>
+      <version>21.5.0.0</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.oracle.database.nls/orai18n -->
     <dependency>
       <groupId>com.oracle.database.nls</groupId>
       <artifactId>orai18n</artifactId>
-      <version>21.3.0.0</version>
+      <version>21.5.0.0</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.oracle.database.security/osdt_core -->
     <dependency>
       <groupId>com.oracle.database.security</groupId>
       <artifactId>osdt_core</artifactId>
-      <version>21.3.0.0</version>
+      <version>21.5.0.0</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.oracle.database.security/osdt_cert -->
     <dependency>
       <groupId>com.oracle.database.security</groupId>
       <artifactId>osdt_cert</artifactId>
-      <version>21.3.0.0</version>
+      <version>21.5.0.0</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.oracle.database.ha/simplefan -->
     <dependency>
       <groupId>com.oracle.database.ha</groupId>
       <artifactId>simplefan</artifactId>
-      <version>21.3.0.0</version>
+      <version>21.5.0.0</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.oracle.database.jdbc/ucp -->
     <dependency>
       <groupId>com.oracle.database.jdbc</groupId>
       <artifactId>ucp</artifactId>
-      <version>21.3.0.0</version>
+      <version>21.5.0.0</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.oracle.database.xml/xdb -->
     <dependency>
       <groupId>com.oracle.database.xml</groupId>
       <artifactId>xdb</artifactId>
-      <version>21.3.0.0</version>
+      <version>21.5.0.0</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.ibm.db2/jcc -->
     <dependency>
       <groupId>com.ibm.db2</groupId>
       <artifactId>jcc</artifactId>
-      <version>11.5.6.0</version>
+      <version>11.5.7.0</version>
     </dependency>
   </dependencies>
 </project>
