@@ -13,7 +13,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <jdk.version>1.8</jdk.version>
     <surefire.version>2.22.2</surefire.version>
-    <postgresql.version>42.5.0</postgresql.version>
+    <postgresql.version>42.5.1</postgresql.version>
     <sqlserver.version>11.2.1.jre8</sqlserver.version>
     <mysql.version>8.0.30</mysql.version>
     <ingres.version>10.2-4.1.10</ingres.version>
