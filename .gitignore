@@ -60,6 +60,3 @@ local.properties
 **/.project
 **/.classpath
 **/libs/*.jar
-**/libs/*/*.jar
-/target/
-**/.classpath
