@@ -114,7 +114,7 @@
     <spark.version>2.9.4</spark.version>
     <flume.version>1.7.0</flume.version>
     <!-- drivers -->
-    <postgresql.version>42.7.11</postgresql.version>
+    <postgresql.version>42.7.12</postgresql.version>
     <sqlserver.version>13.4.0.jre11</sqlserver.version>
     <mysql.version>9.7.0</mysql.version>
     <ingres.version>10.2-4.1.10</ingres.version>
